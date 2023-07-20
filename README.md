@@ -1,4 +1,7 @@
 Changes required
+
+openexr==1.3.7
+
 conda install -c anaconda libstdcxx-ng
 
 ## <p align="center">LION: Latent Point Diffusion Models for 3D Shape Generation<br><br> NeurIPS 2022 </p>
