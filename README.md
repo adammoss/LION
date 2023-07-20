@@ -1,3 +1,6 @@
+Changes required
+conda install -c anaconda libstdcxx-ng
+
 ## <p align="center">LION: Latent Point Diffusion Models for 3D Shape Generation<br><br> NeurIPS 2022 </p>
 <div align="center">
   <a href="https://www.cs.utoronto.ca/~xiaohui/" target="_blank">Xiaohui&nbsp;Zeng</a> &emsp; 
